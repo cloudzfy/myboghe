@@ -25,7 +25,7 @@ All the teaching experiments are based on Microsoft Visual Studio 2010. Students
 This project not only provides an opportunity for students to understand the mechanism of IMS Technology in a natural way, but also assists students to focus on the main structure of IMS by hiding the sophisticated technical details in commercial model of IMS network.
 
 ### About Author
-Funded by Beijing Education Commission, this project is lead by @cloudzfy as part of IMS Teaching Cases project in Beijing University of Posts and Telecommunications, China. The project belongs to the Communication Software Laboratory, School of Software Engineering, Beijing University of Posts and Telecommunications.
+Funded by Beijing Education Commission, this project is led by @cloudzfy as part of IMS Teaching Cases project in Beijing University of Posts and Telecommunications, China. The project belongs to the Communication Software Laboratory, School of Software Engineering, Beijing University of Posts and Telecommunications.
 
 ### Support & Contact
 If you have any trouble on this project, please submit it to our [Issue Tracker](http://github.com/cloudzfy/myboghe/issues), thank you.
