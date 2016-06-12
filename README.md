@@ -29,7 +29,3 @@ Funded by Beijing Education Commission, this project is led by @cloudzfy as part
 
 ### Support & Contact
 If you have any trouble on this project, please submit it to our [Issue Tracker](http://github.com/cloudzfy/myboghe/issues), thank you.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/cloudzfy/myboghe/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
